@@ -1,0 +1,25 @@
+{
+  "name": "fai-wds-package",
+  "version": "1.0.2",
+  "description": "is the string WDS",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fai99099/npm.git"
+  },
+  "keywords": [
+    "WDS"
+  ],
+  "author": "Fai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fai99099/npm/issues"
+  },
+  "homepage": "https://github.com/Fai99099/npm#readme",
+  "devDependencies": {
+    "jest": "^29.1.2"
+  }
+}
